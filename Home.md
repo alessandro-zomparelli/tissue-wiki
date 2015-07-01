@@ -12,6 +12,7 @@ After installation, you should find _Tissue_ Tab in the 3D Viewport Toolshelf.
 _Tessellate_ tool allows you to copy a selected object (Component) on the faces of the active object (Generator), adapting its bounding box to the shape of quad-faces.
 Once the Tessellate button was pressed, then more options will appear in the Operator parameters.
 _Update_ allows you to update the active the Tessellated mesh according to Component and Generator changes. You can also change the parameters of tessellation.
+![](https://scontent-mxp1-1.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/11234909_10206993000812486_4778924511237580817_n.jpg?oh=0292af03d5472b3b6bdcae5cb9cd9cd2&oe=56351687)
 
 **Colors-Weight Exchanger**
 
