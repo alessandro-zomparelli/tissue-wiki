@@ -1,8 +1,9 @@
 Welcome to the Tissue wiki!
 Tissue add-on for Blender is developed by [Co-de-iT](http://www.co-de-it.com) for promote the use of Blender in Computational Design.
-Follow post and updates on [Blender for Computational Design](https://www.facebook.com/groups/1396995897211561)
+
 
 For a complete manual, please visit [Tissue (Blender add-on)](http://www.co-de-it.com/wordpress/code/blender-tissue)
+For news, updates or for share your works, please follow us on [Blender for Computational Design](https://www.facebook.com/groups/1396995897211561)
 
 
 ![tissue_graphics](https://cloud.githubusercontent.com/assets/6708848/8459408/467b74a0-201d-11e5-923c-e542bfad8ba7.jpg)
