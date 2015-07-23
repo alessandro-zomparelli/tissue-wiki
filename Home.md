@@ -3,6 +3,7 @@ Tissue add-on for Blender is developed by [Co-de-iT](http://www.co-de-it.com) fo
 
 
 For a complete manual, please visit [Tissue (Blender add-on)](http://www.co-de-it.com/wordpress/code/blender-tissue)
+
 For news, updates or for share your works, please follow us on [Blender for Computational Design](https://www.facebook.com/groups/1396995897211561)
 
 
