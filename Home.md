@@ -2,7 +2,7 @@ Welcome to the Tissue wiki!
 Tissue add-on for Blender is developed by [Co-de-iT](http://www.co-de-it.com) for promote the use of Blender in Computational Design.
 
 
-**For the complete WIKI, please visit [Tissue (Blender add-on)](http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Mesh/Tissue)**
+**For the complete Wiki, please visit [Tissue (Blender add-on)](http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Mesh/Tissue)**
 
 For news, updates or for share your works, please follow us on [Blender for Computational Design](https://www.facebook.com/groups/1396995897211561)
 
