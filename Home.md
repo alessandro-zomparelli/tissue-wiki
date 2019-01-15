@@ -41,10 +41,12 @@ Alessandro
 
 ![image](http://alessandrozomparelli.com/tissue/Tissue%20Tools.jpg)
 
+
+[Read more](https://github.com/alessandro-zomparelli/tissue/wiki/Tissue-Tools)
+
 ## Tissue Tools - Weight Paint
 
 ![image](http://alessandrozomparelli.com/tissue/Tissue%20Tools%20-%20Weight%20Paint.jpg)
-[Read more](https://github.com/alessandro-zomparelli/tissue/wiki/Tissue-Tools)
 
 ### Weight Generate
 
