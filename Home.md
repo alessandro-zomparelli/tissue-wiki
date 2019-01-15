@@ -42,7 +42,7 @@ Alessandro
 ![image](http://alessandrozomparelli.com/tissue/Tissue%20Tools.jpg)
 
 
-[Read more](https://github.com/alessandro-zomparelli/tissue/wiki/Tissue-Tools)
+[Tissue Tools](https://github.com/alessandro-zomparelli/tissue/wiki/Tissue-Tools)
 
 ## Tissue Tools - Weight Paint
 
