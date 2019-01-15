@@ -41,7 +41,6 @@ Alessandro
 
 ![image](http://alessandrozomparelli.com/tissue/Tissue%20Tools.jpg)
 
-
 [Tissue Tools](https://github.com/alessandro-zomparelli/tissue/wiki/Tissue-Tools)
 
 ## Weight Tools
@@ -53,3 +52,5 @@ Alessandro
 ## Color Tools
 
 ![image](http://alessandrozomparelli.com/tissue/Tissue%20Tools%20-%20Verte%20Paint.jpg)
+
+[Color Tools](https://github.com/alessandro-zomparelli/tissue/wiki/Color-Tools)
