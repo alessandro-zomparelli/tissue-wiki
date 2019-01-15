@@ -14,25 +14,83 @@ For news, updates or for share your works, please follow us on [Blender for Comp
 For installing Tissue Add-on in Blender read <i>Installation of a 3rd party Add-on</i> on [Blender's Manual](http://www.blender.org/manual/extensions/python/add_ons.html).
 After installation, you should find _Tissue_ Tab in the 3D Viewport Toolshelf.
 
-**Tessellate**
+## Tissue Tools
 
-_Tessellate_ tool allows you to copy a selected object (Component) on the faces of the active object (Generator), adapting its bounding box to the shape of quad-faces.
-Once the Tessellate button was pressed, then more options will appear in the Operator parameters.
-_Update_ allows you to update the active the Tessellated mesh according to Component and Generator changes. You can also change the parameters of tessellation.
+![image](http://alessandrozomparelli.com/tissue/Tissue%20Tools.jpg)
 
-![](https://scontent-mxp1-1.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/11178211_10206846618633023_3261441234475565189_n.jpg?oh=ed6bafed224c5003a374c369696a98e9&oe=55E7F45E)
+## Tissue Tools - Weight Paint
 
-![](https://scontent-mxp1-1.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/11234909_10206993000812486_4778924511237580817_n.jpg?oh=0292af03d5472b3b6bdcae5cb9cd9cd2&oe=56351687)
+![image](http://alessandrozomparelli.com/tissue/Tissue%20Tools%20-%20Weight%20Paint.jpg)
 
-![](https://scontent-mxp1-1.xx.fbcdn.net/hphotos-xta1/v/t1.0-9/11390043_10206993115655357_9160092278668888302_n.jpg?oh=adb9ebd4ee93f3a0d404eff004fbb270&oe=5613685A)
+### Weight Generate
 
-**Colors-Weight Exchanger**
+#### Area
+Weight from Faces area (Automatic Bounds, Manual Bounds)
 
-_Colors from Weight_ create a new Vertex Colors channel reading data from Vertex Weight
-_Weight from Colors_ create a new Vertex Weight channel reading data from Vertex Colors
+![image](http://alessandrozomparelli.com/tissue/Weight%20-%20Area.jpg)
 
-**Dual Mesh**
+#### Curvature
+Weight from Curvature (Based on *Dirty Vertex Colors*)
 
-_Dual Mesh_ modify the selected meshes creating dual meshes.  
+![image](http://alessandrozomparelli.com/tissue/Weight%20-%20Curvature.jpg)
 
+#### Weight Formula
+Weight based on Vertices parameters.
+Allows to use vertices coordinates and normals direction. Integer and Float sliders can be created in order to find the proper parameters more easily.
+
+![image](http://alessandrozomparelli.com/tissue/Weight%20-%20Formula.jpg)
+
+#### Harmonic
+Harmonic function based on active Weight
+
+![image](http://alessandrozomparelli.com/tissue/Weight%20-%20Harmonic.jpg)
+
+#### Convert to Colors
+Convert active Weight to Vertex Colors
+
+![image](http://alessandrozomparelli.com/tissue/Weight%20-%20Colors.jpg)
+
+### Deformation Analysis
+
+#### Edges Deformation
+Generate a Vertex Group based on Edges Deformation evaluated on the Modifiers result (Deformation Modifiers and Simulations)
+
+![image](http://alessandrozomparelli.com/tissue/Weight%20-%20Edges%20Deformation.jpg)
+
+#### Edges Bending
+Generate a Vertex Group based on Edges Bending evaluated on the Modifiers result (Deformation Modifiers and Simulations)
+
+![image](http://alessandrozomparelli.com/tissue/Weight%20-%20Edges%20Bending.jpg)
+
+### Weight Contour
+
+#### Contour Curves
+Generates isocurves based on Avtive Weight.
+
+![image](http://alessandrozomparelli.com/tissue/Contour%20-%20Curves.jpg)
+
+#### Contour Displace
+Cut the mesh according to active Weight in a variable number of isocurves and automatically add a Displace Modifier.
+
+![image](http://alessandrozomparelli.com/tissue/Contour%20-%20Displace.jpg)
+
+#### Contour Mask
+Trim the mesh according to active Weight. 
+
+![image](http://alessandrozomparelli.com/tissue/Contour%20-%20Mask.jpg)
+
+### Simulations
+
+#### Reaction Diffusion
+*Work in Progress* 
+
+
+## Tissue Tools - Vertex Paint
+
+![image](http://alessandrozomparelli.com/tissue/Tissue%20Tools%20-%20Verte%20Paint.jpg)
+
+#### Convert to Weight
+Convert Vertex Color to Vertex Group (Red Channel, Green Channel, Blue Channel, Value Channel, Invert)
+
+![image](http://alessandrozomparelli.com/tissue/Convert%20to%20Weight.jpg)
 
