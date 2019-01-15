@@ -48,8 +48,8 @@ Alessandro
 
 ![image](http://alessandrozomparelli.com/tissue/Tissue%20Tools%20-%20Weight%20Paint.jpg)
 
-[Weight Tools](https://github.com/alessandro-zomparelli/tissue/wiki/Tissue-Tools---Weight-Paint)
+[Weight Tools](https://github.com/alessandro-zomparelli/tissue/wiki/Weight-Tools)
 
-## Tissue Tools - Vertex Paint
+## Color Tools
 
 ![image](http://alessandrozomparelli.com/tissue/Tissue%20Tools%20-%20Verte%20Paint.jpg)
