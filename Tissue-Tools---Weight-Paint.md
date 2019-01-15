@@ -1,5 +1,3 @@
-## Tissue Tools - Weight Paint
-
 ![image](http://alessandrozomparelli.com/tissue/Tissue%20Tools%20-%20Weight%20Paint.jpg)
 
 ### Weight Generate
