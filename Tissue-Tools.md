@@ -16,7 +16,9 @@ Others
 Generate a polygonal mesh starting from the active object. 
 ### Lattice along Surface
 Two object must be selected. The first object is the object to deform, the second object (active object) is the target grid. 
+
 A Lattice object is automatically generated around the first object and then adapted to the shape of the grid object.
+
 The grid object should have a regular number of subdivision and a topology compatible with the structure of a Lattice (a regular grid structure).
 (broken)
 ### UV to Mesh
