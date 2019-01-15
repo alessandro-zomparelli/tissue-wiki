@@ -1,4 +1,4 @@
-Tessellate
+Tessellate Tools
 ------
 ### Tessellate
 Two objects must be selected. The first object will be the _Component_, while the second one (active object) will be the _Base_ object.
