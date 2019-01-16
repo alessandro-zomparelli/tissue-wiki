@@ -8,6 +8,14 @@ Or also in a second moment from the panle in the _Object Data_ section of the _P
 
 The main settings are:
 
+### Animatable
+
+The Tessellation is automatically recomputed each time that the frame changes. If you want to easily refresh, once _Animatable_ is active you can use Left and Right key in order to change the current frame.
+
+### Refresh
+
+Manually refresh the Tessellation reloading the changes to both Base and Component objects.
+
 ### BASE
 
 Base object that will be tessellated. 
