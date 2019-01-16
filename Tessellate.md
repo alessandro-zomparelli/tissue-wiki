@@ -8,17 +8,17 @@ Or also in a second moment from the panle in the _Object Data_ section of the _P
 
 The main settings are:
 
-###BASE###
+### BASE
 
 Base object that will be tessellated. 
 (Object supported are Mesh, Curve, Surface, Text)
 
-###COMPONENT###
+### COMPONENT
 
 Component object that will be multiplied and adapted to the Base object.
 (Object supported are Mesh, Curve, Surface, Text)
 
-###Use Modifiers###
+### Use Modifiers
 
 Apply Modifiers and Shape Keys, otherwise just the original mesh data is used.
 
