@@ -42,6 +42,8 @@ On the other hand, if the Base mesh have NGon, then part of the face will be ign
 This is the recommended setting for NGons. In order to make possible to Tessellate any generic polygon a triangle fan is generated connecting each side with the center. The generated triangles will be considered as special quad faces with two coincident vertices.
 
 #### Patch
-This mode works only with a mesh with quad faces and a _Subdivision Surface_ (or _Multiresolution_) modifier.
+This mode works only with a mesh with quad faces and a _Subdivision Surface_ (or _Multiresolution_) modifier. The generated Tessellation will use the size of the original faces, but the smoothness of the subdivided one.
+If the object have more subdivision modifiers, then only the last one is considered for the deformation. The previous modifiers will make the component smaller.
+After the last Subdivision Surface other modifiers can be used, but only those modifiers that doesn't change the topology of the mesh. 
 
-
+![quad-patch](http://www.alessandrozomparelli.com/tissue/Tessellate%20-%20quad%20patch%20comparison.png)
