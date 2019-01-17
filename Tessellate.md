@@ -107,3 +107,21 @@ Similar to the offset parameter of the _Solidify Modifier_. It can be used in or
 #### Individual Faces
 
 The components follow an individual normal direction depending on the faces orientation. (This can generate openings if the components are designed to be connected with the neighbors) 
+
+### Merge
+
+Automatically merge non manifold vertices in order to have a continuous geometry.
+
+#### Distance
+
+Merge distance
+
+#### Dissolve Seams
+
+Automatically try to dissolve seams edges after the Tessellation. This allows to make the generated topology more indipendent for the original faces.
+
+![dissolve-seams](http://www.alessandrozomparelli.com/tissue/Tessellate%20-%20Dissolve%20Seams.png)
+
+### Smooth Shading
+
+Smooth the generated geometry 
