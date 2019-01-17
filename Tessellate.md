@@ -63,3 +63,47 @@ The orientation of the faces in the UV spaces will be used in order to determine
 #### Random
 
 The rotation of the components is randomized. An additional _Seed_ parameter can be changed.
+
+### Component Coordinates
+
+Different coordinates can be used in order to adapting the component each face:
+
+#### Bounds
+
+(Default) Automatically check the size of the componet and adapt it automatically in order to fit the faces size
+
+#### Local
+
+Local coordinates of the component will be used. Only the vertices with coordinates within a range from 0 to 1 (in both local X and Y) will be inside the faces, the other vertices will continue outside of the face boundaries.
+
+#### Global
+
+As for the _Local_, but this allow to use also rotation, scale and position of the component. When Global is active it replace the _Offset_ setting because the global Z coordinates will be used instead.
+
+### Thickness
+
+#### Constant
+
+The same thickness will be used for all the components.
+
+#### Proportional
+
+The thickness changes accordinagly to the area of the faces, tryng to keep the proportions of the component similar to the original ones.
+
+#### Scale
+
+Scale multiplier for the components thickness
+
+#### Offset
+
+Similar to the offset parameter of the _Solidify Modifier_. It can be used in order to change the position of the components according to the original surface. It doesn't work if _Global_ coordinates are used.
+
+### Direction
+
+#### Along normals 
+
+(Default) The Tessellation is consistent with the vertices normal.
+
+#### Individual Faces
+
+The components follow an individual normal direction depending on the faces orientation. (This can generate openings if the components are designed to be connected with the neighbors) 
