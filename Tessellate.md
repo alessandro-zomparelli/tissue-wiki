@@ -2,7 +2,7 @@ The settings for the Tessellation can be defined at beginning:
 
 ![Tessellate](http://www.alessandrozomparelli.com/tissue/Tessellate%20-%20basic%20command.png)
 
-Or also in a second moment from the panle in the _Object Data_ section of the _Properties_ frame:
+Or in a second moment from the panle in the _Object Data_ section of the _Properties_ frame:
 
 ![Tessellate](http://www.alessandrozomparelli.com/tissue/Tessellate%20-%20settings%20panel.png)
 
@@ -47,3 +47,19 @@ If the object have more subdivision modifiers, then only the last one is conside
 After the last Subdivision Surface other modifiers can be used, but only those modifiers that doesn't change the topology of the mesh. 
 
 ![quad-patch](http://www.alessandrozomparelli.com/tissue/Tessellate%20-%20quad%20patch%20comparison.jpg)
+
+### Rotation
+
+Different strategies can be used in order to define the rotation of the components:
+
+#### Default
+
+By default the rotation depends of the indexes of the vertices. If you want to manually change them you can use [Rotate Faces](https://github.com/alessandro-zomparelli/tissue/wiki/Tissue-Tools#rotate-faces)
+
+#### Active UV
+
+The orientation of the faces in the UV spaces will be used in order to determine the desired rotation for the component. This is the recommended strategy for controlling the orientation of the components on complex geometries.
+
+#### Random
+
+The rotation of the components is randomized. An additional _Seed_ parameter can be changed.
