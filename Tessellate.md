@@ -46,4 +46,4 @@ This mode works only with a mesh with quad faces and a _Subdivision Surface_ (or
 If the object have more subdivision modifiers, then only the last one is considered for the deformation. The previous modifiers will make the component smaller.
 After the last Subdivision Surface other modifiers can be used, but only those modifiers that doesn't change the topology of the mesh. 
 
-![quad-patch](http://www.alessandrozomparelli.com/tissue/Tessellate%20-%20quad%20patch%20comparison.png)
+![quad-patch](http://www.alessandrozomparelli.com/tissue/tessellate%20-%20quad%20patch%20comparison.png)
