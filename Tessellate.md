@@ -30,3 +30,18 @@ Component object that will be multiplied and adapted to the Base object.
 
 Apply Modifiers and Shape Keys, otherwise just the original mesh data is used.
 
+### Fill Mode
+
+You can chose from three different Fill strategies:
+
+#### Quad
+This is the default setting and will consider the first 4 vertices of each face as boundary for the component. This means that is the Base mesh contains triangles, then it will considered as a quad face with two coincident vertices.
+On the other hand, if the Base mesh have NGon, then part of the face will be ignored.
+
+#### Fan
+This is the recommended setting for NGons. In order to make possible to Tessellate any generic polygon a triangle fan is generated connecting each side with the center. The generated triangles will be considered as special quad faces with two coincident vertices.
+
+#### Patch
+This mode works only with a mesh with quad faces and a _Subdivision Surface_ (or _Multiresolution_) modifier.
+
+
