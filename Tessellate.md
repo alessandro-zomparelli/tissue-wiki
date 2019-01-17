@@ -121,6 +121,7 @@ Merge distance
 Automatically try to dissolve seams edges after the Tessellation. This allows to make the generated topology more indipendent for the original faces.
 
 ![dissolve-seams](http://www.alessandrozomparelli.com/tissue/Tessellate%20-%20Dissolve%20Seams.png)
+![patterns](http://www.alessandrozomparelli.com/tissue/Tessellate%20-%20patterns.png)
 
 ### Smooth Shading
 
