@@ -126,3 +126,6 @@ Automatically try to dissolve seams edges after the Tessellation. This allows to
 ### Smooth Shading
 
 Smooth the generated geometry 
+
+
+![weight-shapekeys](http://www.alessandrozomparelli.com/tissue/Tessellate%20-%20Weight%20Shape%20Keys.png)
