@@ -168,7 +168,7 @@ _If the Shape Keys from the Component object have the same name of the Vertex Gr
 
 ### Reiterate Tessellation
 
-It's possible to automatically repeat the tessellation using the result of the tessellation as Base object for the next one. 
+It is possible to automatically repeat the tessellation using the result of the tessellation as Base object for the next one. 
 This setting can be used for generating _Branching Systems_ of _Iterative_ geometries.
 
 #### Repeat
