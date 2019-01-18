@@ -133,7 +133,7 @@ Smooth the generated geometry
 
 ### Limited Tessellation
 
-It's possible to tessellate only some faces:
+It is possible to apply the tessellation only some particular faces:
 
 #### On Selected Faces
 
@@ -168,5 +168,8 @@ _If the Shape Keys from the Component object have the same name of the Vertex Gr
 
 ### Reiterate Tessellation
 
-#### Repeat
+It's possible to automatically repeat the tessellation using the result of the tessellation as Base object for the next one. 
 
+* #### Repeat
+
+Set the number of iteration. Be carefull, This can generate a lot of polygons!
