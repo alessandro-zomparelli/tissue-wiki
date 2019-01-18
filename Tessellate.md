@@ -7,6 +7,7 @@ Or in a second moment from the panle in the _Object Data_ section of the _Proper
 ![Tessellate](http://www.alessandrozomparelli.com/tissue/Tessellate%20-%20settings%20panel.png)
 
 ## Base Settings
+
 The main settings are:
 
 ### Animatable
