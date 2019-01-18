@@ -169,7 +169,10 @@ _If the Shape Keys from the Component object have the same name of the Vertex Gr
 ### Reiterate Tessellation
 
 It's possible to automatically repeat the tessellation using the result of the tessellation as Base object for the next one. 
+This setting can be used for generating _Branching Systems_ of _Iterative_ geometries.
 
-* #### Repeat
+#### Repeat
 
 Set the number of iteration. Be carefull, This can generate a lot of polygons!
+
+![branching-systems](http://www.alessandrozomparelli.com/tissue/Tessellate%20-%20branching%20systems.jpg)
