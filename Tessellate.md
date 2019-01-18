@@ -129,5 +129,32 @@ Automatically try to dissolve seams edges after the Tessellation. This allows to
 
 Smooth the generated geometry 
 
+## Advanced Settings
+
+### Limited Tessellation
+
+## On Selected Faces
+
+## Material ID
+
+### Data
+
+Some additional data can be mapped from the source objects:
+
+## Map Vertex Groups
+
+Automatically project all the Vertex Groups of the Base object to the generated object
+
+## Use Shape Keys
+
+Keeps the component's Shape Keys with their original value. 
+
+_If the Shape Keys from the Component object have the same name of the Vertex Groups of the Base object, then they will be automatically combined. If you don't see them, make sure that the Shape Keys value is set to the desired value._
+
 
 ![weight-shapekeys](http://www.alessandrozomparelli.com/tissue/Tessellate%20-%20Weight%20Shape%20Keys.png)
+
+### Reiterate Tessellation
+
+## Repeat
+
