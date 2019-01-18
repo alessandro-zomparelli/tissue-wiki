@@ -133,28 +133,40 @@ Smooth the generated geometry
 
 ### Limited Tessellation
 
-## On Selected Faces
+It's possible to tessellate only some faces:
 
-## Material ID
+#### On Selected Faces
+
+Perform the tessellation only on the selected faces. 
+
+#### Material ID
+
+Perform the tessellation only on the faces with a specific Material, according to the chosen Material ID.
+
+_If both options are used, then only faces that are both selected and have the correct Material ID will be used (AND condition)_
+
+#### Combine unused
+
+If the tessellation is performed only on some faces, then it combine the result with all the Base faces that have not been used.
+Can be used for making decoration or holes on some part of the Base mesh.
 
 ### Data
 
 Some additional data can be mapped from the source objects:
 
-## Map Vertex Groups
+#### Map Vertex Groups
 
 Automatically project all the Vertex Groups of the Base object to the generated object
 
-## Use Shape Keys
+#### Use Shape Keys
 
 Keeps the component's Shape Keys with their original value. 
 
-_If the Shape Keys from the Component object have the same name of the Vertex Groups of the Base object, then they will be automatically combined. If you don't see them, make sure that the Shape Keys value is set to the desired value._
-
+_If the Shape Keys from the Component object have the same name of the Vertex Groups of the Base object, then they will be automatically combined. If you don't see any effect, make sure that the Shape Keys value is set to the desired value._
 
 ![weight-shapekeys](http://www.alessandrozomparelli.com/tissue/Tessellate%20-%20Weight%20Shape%20Keys.png)
 
 ### Reiterate Tessellation
 
-## Repeat
+#### Repeat
 
