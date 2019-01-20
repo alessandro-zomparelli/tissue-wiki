@@ -50,6 +50,8 @@ After the last Subdivision Surface other modifiers can be used, but only those m
 
 ![quad-patch](http://www.alessandrozomparelli.com/tissue/Tessellate%20-%20quad%20patch%20comparison.jpg)
 
+Working with patches makes easier to define the number of elements indipendently from the topology of the mesh:
+
 ![quad-patch](http://www.alessandrozomparelli.com/tissue/Tessellate%20-%20patch%20array.png)
 
 ### Rotation
