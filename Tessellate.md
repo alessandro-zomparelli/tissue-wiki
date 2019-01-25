@@ -157,6 +157,8 @@ _If the Shape Keys from the Component object have the same name of the Vertex Gr
 
 If used, the chosen component will be ignored. Assign to each face a component with the name matching with face material. If there are no objects with such name, that faces will not be used.
 
+![multi-components](http://www.alessandrozomparelli.com/tissue/Tessellate%20-%20multi-components.png)
+
 #### On Selected Faces
 
 Perform the tessellation only on the selected faces. 
