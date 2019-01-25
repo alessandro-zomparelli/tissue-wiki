@@ -7,6 +7,10 @@ Two objects must be selected. The first object will be the _Component_, while th
 Generate a Tessellated object adapting the Component object to the faces of the Base object.
 
 [Tessellate](https://github.com/alessandro-zomparelli/tissue/wiki/Tessellate)
+
+### Dual Mesh
+Automatically generates a special component used for Tessellate the active object. The generated object is a polygonal mesh derived by specific subdivision strategies.
+
 ### Refresh
 Update the active Tessellated object, reloading the changes to both Base object and Component object.
 ### Rotate Faces
