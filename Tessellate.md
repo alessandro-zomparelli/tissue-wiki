@@ -47,6 +47,8 @@ This is the recommended setting for NGons. In order to make possible to Tessella
 
 ![Fan](http://www.alessandrozomparelli.com/tissue/Tessellate%20-%20fan.png)
 
+![Quad-Fan](http://www.alessandrozomparelli.com/tissue/Tessellate%20-%20quad-fan.png)
+
 #### Patch
 This mode works only with a mesh with quad faces and a _Subdivision Surface_ (or _Multiresolution_) modifier. The generated Tessellation will use the size of the original faces, but the smoothness of the subdivided one.
 If the object have more subdivision modifiers, then only the last one is considered for the deformation. The previous modifiers will make the component smaller.
