@@ -87,10 +87,13 @@ Different coordinates can be used in order to adapting the component each face:
 #### Local
 
 Local coordinates of the component will be used. Only the vertices with coordinates within a range from 0 to 1 (in both local X and Y) will be inside the faces, the other vertices will continue outside of the face boundaries.
+The Z _Offset_ of the component will depend on the local origin position.
 
 #### Global
 
-As for the _Local_, but this allow to use also rotation, scale and position of the component. When Global is active it replace the _Offset_ setting because the global Z coordinates will be used instead.
+As for the _Local_, but this allow to use also rotation, scale and position of the component. The Z _Offset_ of the component will depend on the global origin position.
+
+![bounds-local-global](http://www.alessandrozomparelli.com/tissue/Tessellate%20-%20bounds-local-global.png)
 
 ### Thickness
 
