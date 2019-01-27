@@ -40,8 +40,12 @@ You can chose from three different Fill strategies:
 This is the default setting and will consider the first 4 vertices of each face as boundary for the component. This means that is the Base mesh contains triangles, then it will considered as a quad face with two coincident vertices.
 On the other hand, if the Base mesh have NGon, then part of the face will be ignored.
 
+![Quad](http://www.alessandrozomparelli.com/tissue/Tessellate%20-%20quad.png)
+
 #### Fan
 This is the recommended setting for NGons. In order to make possible to Tessellate any generic polygon a triangle fan is generated connecting each side with the center. The generated triangles will be considered as special quad faces with two coincident vertices.
+
+![Fan](http://www.alessandrozomparelli.com/tissue/Tessellate%20-%20fan.png)
 
 #### Patch
 This mode works only with a mesh with quad faces and a _Subdivision Surface_ (or _Multiresolution_) modifier. The generated Tessellation will use the size of the original faces, but the smoothness of the subdivided one.
