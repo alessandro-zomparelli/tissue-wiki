@@ -7,7 +7,9 @@ The settings for the Tessellation can be defined immediately:
 
 ![Tessellate](http://www.alessandrozomparelli.com/tissue/Tessellate%20-%20basic%20command.png)
 
-Or in a second moment from the panle in the _Object Data_ section of the _Properties_ frame:
+Or in a second moment, using Tessellate with only the generated object selected. 
+
+In any case, all the settings are also available in the panel in the _Object Data_ section of the _Properties_ frame:
 
 ![Tessellate](http://www.alessandrozomparelli.com/tissue/Tessellate%20-%20settings%20panel.png)
 
