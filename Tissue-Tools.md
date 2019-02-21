@@ -30,4 +30,4 @@ The grid object should have a regular number of subdivision and a topology compa
 ### UV to Mesh
 Convert the active UV-map to mesh trying to keep the original 3D model total surface area.
 
-![image](http://alessandrozomparelli.com/tissue/UV%20to%20Mesh.jpg)
+![image](http://alessandrozomparelli.com/tissue/UV%20to%20Mesh.png)
