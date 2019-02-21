@@ -18,8 +18,9 @@ Shift the vertices order of the selected faces. The order affect the Tessellatio
 
 Others
 ------
-### Dual Mesh
-Generate a polygonal mesh starting from the active object. 
+### Convert to Dual Mesh
+Convert the selected meshes to polygonal dual mesh. Differently than [Dual Mesh](https://github.com/alessandro-zomparelli/tissue/wiki/Tissue-Tools#dual-mesh) operator, this operation is destructive. 
+
 ### Lattice along Surface
 Two object must be selected. The first object is the object to deform, the second object (active object) is the target grid. 
 
@@ -27,6 +28,7 @@ A Lattice object is automatically generated around the first object and then ada
 
 The grid object should have a regular number of subdivision and a topology compatible with the structure of a Lattice (a regular grid structure).
 (broken)
+
 ### UV to Mesh
 Convert the active UV-map to mesh trying to preserve the original 3D model total surface area.
 
