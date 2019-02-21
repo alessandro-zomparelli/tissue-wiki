@@ -28,4 +28,6 @@ A Lattice object is automatically generated around the first object and then ada
 The grid object should have a regular number of subdivision and a topology compatible with the structure of a Lattice (a regular grid structure).
 (broken)
 ### UV to Mesh
-Convert the active UV-map to mesh. 
+Convert the active UV-map to mesh trying to keep the original 3D model total surface area.
+
+![image](http://alessandrozomparelli.com/tissue/UV%20to%20Mesh.jpg)
