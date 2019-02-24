@@ -1,5 +1,5 @@
 # Tissue
-![cover](http://alessandrozomparelli.com/tissue/Tissue%20Cover.png)
+![cover](http://alessandrozomparelli.com/tissue/Tissue%20-%20Cover.png)
 Tissue - Blender's add-on for computational design by Co-de-iT
 http://www.co-de-it.com/wordpress/code/blender-tissue
 
