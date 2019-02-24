@@ -55,7 +55,7 @@ Cut the mesh according to active Weight in a variable number of isocurves and au
 #### Contour Mask
 Trim the mesh according to active Weight. 
 
-![image](http://alessandrozomparelli.com/tissue/Contour%20-%20Mask.jpg)
+![image](http://alessandrozomparelli.com/tissue/Contour%20-%20Mask.jp)
 
 ### Simulations
 
