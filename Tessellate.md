@@ -1,5 +1,3 @@
-[![Video](http://img.youtube.com/vi/7Liv--XSaCg/0.jpg)](http://www.youtube.com/watch?v=7Liv--XSaCg)
-
 ![image](http://alessandrozomparelli.com/tissue/Tissue%20Tools.jpg)
 
 Two objects must be selected. The first object will be the _Component_, while the second one (active object) will be the _Base_ object.
@@ -14,6 +12,12 @@ Or in a second moment, using Tessellate with only the generated object selected.
 In any case, all the settings are also available in the panel in the _Object Data_ section of the _Properties_ frame:
 
 ![Tessellate](http://www.alessandrozomparelli.com/tissue/Tessellate%20-%20settings%20panel.png)
+
+## Video Tutorials
+
+[![Video](http://img.youtube.com/vi/PRIcB1Q-gK4/0.jpg)](http://www.youtube.com/watch?v=PRIcB1Q-gK4)
+
+[![Video](http://img.youtube.com/vi/7Liv--XSaCg/0.jpg)](http://www.youtube.com/watch?v=7Liv--XSaCg)
 
 ## Base Settings
 
