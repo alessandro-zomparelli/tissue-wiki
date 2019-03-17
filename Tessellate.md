@@ -17,6 +17,8 @@ In any case, all the settings are also available in the panel in the _Object Dat
 
 [![Video](http://img.youtube.com/vi/PRIcB1Q-gK4/0.jpg)](http://www.youtube.com/watch?v=PRIcB1Q-gK4)
 
+[![Video](http://img.youtube.com/vi/c2rtqprkLgM/0.jpg)](http://www.youtube.com/watch?v=c2rtqprkLgM)
+
 [![Video](http://img.youtube.com/vi/7Liv--XSaCg/0.jpg)](http://www.youtube.com/watch?v=7Liv--XSaCg)
 
 ## Base Settings
