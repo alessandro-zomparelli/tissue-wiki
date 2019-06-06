@@ -27,7 +27,6 @@ Two object must be selected. The first object is the object to deform, the secon
 A Lattice object is automatically generated around the first object and then adapted to the shape of the grid object.
 
 The grid object should have a regular number of subdivision and a topology compatible with the structure of a Lattice (a regular grid structure).
-(broken)
 
 ### UV to Mesh
 Convert the active UV-map to mesh trying to preserve the original 3D model total surface area.
