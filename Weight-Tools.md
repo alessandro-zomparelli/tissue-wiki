@@ -18,6 +18,16 @@ Allows to use vertices coordinates and normals direction. Integer and Float slid
 
 ![image](http://alessandrozomparelli.com/tissue/Weight%20-%20Formula.jpg)
 
+Inside the _Weight Formula_, the following parameters can be used. Each parameter is referred to individual vertices.
+
+**lx, ly, lz**: Local Coordinates
+**gx, gy, gz**: Global Coordinates
+**rx, ry, rz**: Local Coordinates (from 0 to 1)
+**nx, ny, nz**: Normal Coordinates
+**w[0], w[1], w[2], ...**: Vertex Groups Values
+**f1, f2, f3, f4, f5**: Float Sliders
+**i1, i2, i3, i4, i5**: Integer Slider
+
 All [Numpy mathematical functions](https://docs.scipy.org/doc/numpy-1.13.0/reference/routines.math.html) van be used in the formula.
 
 #### Harmonic
