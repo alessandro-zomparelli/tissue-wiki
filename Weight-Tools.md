@@ -42,11 +42,11 @@ _w[0], w[1], w[2], ..._ - Vertex Groups Values
 
 _f1, f2, f3, f4, f5_ - Float Sliders
 
-> Some floating-point slider can defined. This allow to interactively change the value in order to have a more direct feedback.
+> Some floating-point slider can defined. This allow to interactively change the value in order to have a more direct feedback. (Up to five sliders)
 
 _i1, i2, i3, i4, i5_ - Integer Slider
 
-> Some integer slider can defined. This allow to interactively change the value in order to have a more direct feedback.
+> Some integer slider can defined. This allow to interactively change the value in order to have a more direct feedback. (Up to five sliders)
 
 Also, all [Numpy mathematical functions](https://docs.scipy.org/doc/numpy-1.13.0/reference/routines.math.html) can be used in the formula.
 
