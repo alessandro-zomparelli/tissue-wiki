@@ -18,7 +18,7 @@ Allows to use vertices coordinates and normals direction. Integer and Float slid
 
 ![image](http://alessandrozomparelli.com/tissue/Weight%20-%20Formula.jpg)
 
-[text](https://docs.scipy.org/doc/numpy-1.13.0/reference/routines.math.html)
+All [Numpy mathematical functions](https://docs.scipy.org/doc/numpy-1.13.0/reference/routines.math.html) van be used in the formula.
 
 #### Harmonic
 Harmonic function based on active Weight
