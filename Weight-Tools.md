@@ -30,7 +30,7 @@ Global coordinates of each point, according to object location, rotation and sca
 
 _rx, ry, rz_: Local Coordinates (from 0 to 1)
 
-Local coordinates, remapped to a range from 0 to 1.
+> Local coordinates, remapped to a range from 0 to 1.
 
 _nx, ny, nz_: Normal Coordinates
 
