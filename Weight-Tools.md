@@ -20,31 +20,31 @@ Allows to use vertices coordinates and normals direction. Integer and Float slid
 
 Inside the _Weight Formula_, the following parameters can be used. Each parameter is referred to individual vertices.
 
-_lx, ly, lz_: Local Coordinates
+_lx, ly, lz_ - Local Coordinates
 
 > Local coordinates for each vertex. Local coordinates are independent from object location, rotation and scale.
 
-_gx, gy, gz_: Global Coordinates
+_gx, gy, gz_ - Global Coordinates
 
 > Global coordinates of each point, according to object location, rotation and scale. 
 
-_rx, ry, rz_: Local Coordinates (from 0 to 1)
+_rx, ry, rz_ - Local Coordinates (from 0 to 1)
 
 > Local coordinates, remapped to a range from 0 to 1.
 
-_nx, ny, nz_: Normal Coordinates
+_nx, ny, nz_ - Normal Coordinates
 
 > Coordinates x,y,z of the normal vectors.
 
-_w[0], w[1], w[2], ..._: Vertex Groups Values
+_w[0], w[1], w[2], ..._ - Vertex Groups Values
 
 > The value of other vertex groups can be used inside the formula. The number represent the index of the vertex group and its values are within the range of 0 to 1. 
 
-_f1, f2, f3, f4, f5_: Float Sliders
+_f1, f2, f3, f4, f5_ - Float Sliders
 
 > Some floating-point slider can defined. This allow to interactively change the value in order to have a more direct feedback.
 
-_i1, i2, i3, i4, i5_: Integer Slider
+_i1, i2, i3, i4, i5_ - Integer Slider
 
 > Some integer slider can defined. This allow to interactively change the value in order to have a more direct feedback.
 
