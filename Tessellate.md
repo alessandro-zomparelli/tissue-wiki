@@ -21,6 +21,8 @@ In any case, all the settings are also available in the panel in the _Object Dat
 
 [![Video](http://img.youtube.com/vi/7Liv--XSaCg/0.jpg)](http://www.youtube.com/watch?v=7Liv--XSaCg)
 
+[![Video](http://img.youtube.com/vi/2Wcu9E0EGEM/0.jpg)](http://www.youtube.com/watch?v=2Wcu9E0EGEM)
+
 ## Base Settings
 
 The main settings are:
