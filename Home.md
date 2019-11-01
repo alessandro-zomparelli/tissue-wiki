@@ -36,7 +36,7 @@ Alessandro
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ARSDJWXVFZ346)
 
-<a href="https://www.patreon.com/bePatron?u=26421972" target=blank><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" alt="Become a Patreon" width=200px></a>
+<a href="https://www.patreon.com/bePatron?u=26421972" target="_blank"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" alt="Become a Patreon" width=200px></a>
 
 ## Tissue Tools
 
