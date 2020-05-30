@@ -13,7 +13,7 @@ Blender add-on for Computational Design
         <iframe width="560" height="315" src="https://www.youtube.com/embed/pVNYyJeLGZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
-Blender 2.82a
+Tissue for Blender 2.82a
 ============
 
 Tissue v0.3.41 for Blender 2.82a (latest stable release): https://github.com/alessandro-zomparelli/tissue/releases/tag/v0-3-41
@@ -24,11 +24,11 @@ Development branch (usually the most updated version): https://github.com/alessa
 Installation
 ============
 
-1. Start Blender. Open User Preferences, the addons tab
-2. Search for Tissue add-on and remove existing version
-3. Click "install from file" and point Blender at the downloaded zip ("Install..." for Blender 2.80)
-4. Activate Tissue add-on from user preferences
-5. Save user preferences if you want to have it on at startup. (This could be not necessary for Blender 2.80 if "Auto-Save Preferences" id on)
+#. Start Blender. Open User Preferences, the addons tab
+#. Search for Tissue add-on and remove existing version
+#. Click "install from file" and point Blender at the downloaded zip ("Install..." for Blender 2.80)
+#. Activate Tissue add-on from user preferences
+#. Save user preferences if you want to have it on at startup. (This could be not necessary for Blender 2.80 if "Auto-Save Preferences" id on)
 
 
 Introduction
