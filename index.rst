@@ -10,10 +10,10 @@ Blender add-on for Computational Design
 
 .. raw:: html
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/pVNYyJeLGZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/pVNYyJeLGZI" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
     </div>
 
-Tissue for Blender 2.82a
+Download
 ============
 
 Tissue v0.3.41 for Blender 2.82a (latest stable release): https://github.com/alessandro-zomparelli/tissue/releases/tag/v0-3-41
@@ -24,11 +24,10 @@ Development branch (usually the most updated version): https://github.com/alessa
 Installation
 ============
 
-#. Start Blender. Open User Preferences, the addons tab
-#. Search for Tissue add-on and remove existing version
-#. Click "install from file" and point Blender at the downloaded zip ("Install..." for Blender 2.80)
-#. Activate Tissue add-on from user preferences
-#. Save user preferences if you want to have it on at startup. (This could be not necessary for Blender 2.80 if "Auto-Save Preferences" id on)
+#. Start Blender. Go to "Edit" and then "Preferences"
+#. Open the "Add-ons" preferences
+#. Click "install..." and point Blender at the downloaded zip file (on OSX it may have extracted the zip automatically, that won't work, so you have to zip the extracted folder again)
+#. You may see now two different versions of Tissue, activate only the second one and ignore the first one
 
 
 Introduction
